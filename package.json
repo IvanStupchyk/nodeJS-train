@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-train",
+  "version": "1.0.0",
+  "description": "nodejs training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanStupchyk/nodeJS-train.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Ivan Stupchyk <vanyastupchuk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanStupchyk/nodeJS-train/issues"
+  },
+  "homepage": "https://github.com/IvanStupchyk/nodeJS-train#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
